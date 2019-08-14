@@ -1,0 +1,630 @@
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ApplicationInsights.config
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.dll.config
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.pdb
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Owin.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\WebGrease.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.pdb
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csprojAssemblyReference.cache
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CoreCompileInputs.cache
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CopyComplete
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.pdb
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe.config
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csc.rsp
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe.config
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csi.rsp
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Buffers.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Memory.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe.config
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.rsp
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.model.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.model.pdb
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ApplicationInsights.config
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.dll.config
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.pdb
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.model.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Owin.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\WebGrease.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\ninja.model.pdb
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csprojAssemblyReference.cache
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CopyComplete
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja\obj\Debug\ninja.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\ApplicationInsights.config
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\ninja.dll.config
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\ninja.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\ninja.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\EntityFramework.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\ninja.model.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Owin.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\WebGrease.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\ninja.model.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\EntityFramework.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csprojAssemblyReference.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CopyComplete
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\obj\Debug\ninja.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja\obj\Debug\ninja.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ApplicationInsights.config
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe.config
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.rsp
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe.config
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.rsp
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Buffers.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Memory.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe.config
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.rsp
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.dll.config
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.model.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Owin.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\WebGrease.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.model.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csprojAssemblyReference.cache
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CoreCompileInputs.cache
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CopyComplete
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.pdb
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ApplicationInsights.config
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe.config
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.rsp
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe.config
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.rsp
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Buffers.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Memory.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe.config
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.rsp
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.dll.config
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.pdb
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.model.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Owin.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\WebGrease.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.model.pdb
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.pdb
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csprojAssemblyReference.cache
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CoreCompileInputs.cache
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CopyComplete
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ApplicationInsights.config
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.Managed.EditorConfig.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.dll.config
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.model.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Owin.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\WebGrease.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\ninja.model.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csprojAssemblyReference.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.web.csproj.CopyComplete
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja\obj\Debug\ninja.pdb

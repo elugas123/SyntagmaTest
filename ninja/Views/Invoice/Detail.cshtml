@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ninja.model.Entity.InvoiceDetail>
+
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>Detail</h2>
+
+<p>
+    @Html.ActionLink("AddDetail", "AddDetail", new  { Id = ViewBag.IdInvoice })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.InvoiceId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.InvoiceId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Update", "UpdateAddDetail", new { Id = item.Id, InvoiceId = ViewBag.IdInvoice }) |    
+            @Html.ActionLink("Delete", "DeleteDetail", new { Id = item.Id, InvoiceId = ViewBag.IdInvoice })
+        </td>
+    </tr>
+}
+
+</table>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

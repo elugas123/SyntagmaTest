@@ -1,0 +1,34 @@
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.pdb
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csprojAssemblyReference.cache
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csproj.CoreCompileInputs.cache
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.dll
+C:\Users\Ugas\Downloads\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.pdb
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.pdb
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.dll
+C:\Users\user\Desktop\A entregar\apply-4-net-ninja-master (1)\apply-4-net-ninja-master (1)\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csproj.CoreCompileInputs.cache
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.dll
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.pdb
+C:\Users\Ugas\Desktop\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csprojAssemblyReference.cache
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.pdb
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csproj.CoreCompileInputs.cache
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.dll
+C:\Users\C06072\Pictures\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\bin\Debug\ninja.model.pdb
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.dll
+C:\Users\user\Desktop\apply-4-net-ninja-master (2)\apply-4-net-ninja-master\apply-4-net-ninja-master\ninja.model\obj\Debug\ninja.model.pdb
